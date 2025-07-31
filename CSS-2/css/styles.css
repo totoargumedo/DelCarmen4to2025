@@ -14,12 +14,27 @@
 }
 
 .main-section-first {
-  background-image: url("../img/Hoguera.jpg");
+  background-image: url("../img/Fondo1.jpg");
+  position: relative;
 }
 
 .main-section-second {
-  background-image: url("../img/Flanders.jfif");
+  background-image: url("../img/Fondo2.png");
 }
 .main-section-third {
-  background-image: url("../img/Abuelo.jfif");
+  background-image: url("../img/Fondo3.jpg");
+}
+
+.main-title {
+  color: white;
+  background-color: rgba(59, 38, 193, 0.2);
+  width: 500px;
+  height: 150px;
+  font-size: 100px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 30%;
+  position: absolute;
+  top: 35%;
+  left: 35%;
 }
